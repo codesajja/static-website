@@ -1,4 +1,4 @@
 # static-website
-This repository hosts a static website. You can view it live at:
+I have developed this static website, and you can check it out live here:
 https://teksilicondata.com/
 https://mscreation.tech/
